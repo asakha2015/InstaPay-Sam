@@ -4,16 +4,16 @@
 
     <string name="keyAdapter">adaptateur</string>
 
-    <string name="action_settings">Paramètres</string>
-    <string name="action_logout">Se déconnecter</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
 
-    <string name="login_status">Connexion Statut</string>
-    <string name="login_id">Identifiant de connexion</string>
+    <string name="login_status">LoginStatus</string>
+    <string name="login_id">LoginID</string>
 
-    <string name="title_home">Bienvenue sur InstaPay</string>
-    <string name="title_create_account">Créer un compte</string>
-    <string name="title_login">Connecte-toi maintenant</string>
-    <string name="title_vendors">Vendeurs</string>
+    <string name="title_home">Welcome to InstaPay</string>
+    <string name="title_create_account">Create account</string>
+    <string name="title_login">Login now</string>
+    <string name="title_vendors">Vendors</string>
 
     <string name="ed_email">Email</string>
     <string name="ed_password">Password</string>
