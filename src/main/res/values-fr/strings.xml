@@ -2,9 +2,9 @@
 <resources>
     <string name="app_name">InstaPay</string>
 
-    <string name="keyAdapter">adapter</string>
+    <string name="keyAdapter">adaptateur</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Paramètres</string>
     <string name="action_logout">Logout</string>
 
     <string name="login_status">LoginStatus</string>
